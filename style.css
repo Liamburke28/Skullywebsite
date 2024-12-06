@@ -1,7 +1,20 @@
 h1 {
-
+    font-size: 100px;
     text-align: center;
     color: blueviolet; 
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    background-color: azure;
+
+}
+
+nav{
+    font-size: 50px
+    text-align: center;
+
+
+
 
 
 }
