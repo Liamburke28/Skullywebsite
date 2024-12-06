@@ -9,8 +9,9 @@ h1 {
 
 }
 
-#nav{
+nav{
     font-size: 50px
+    text-align: center;
     
 
 
@@ -18,14 +19,12 @@ h1 {
 
 }
 
-#Skullyman{
-    font-size: small;
+
+
+body{
+    font-size: 17px;
     font-family: 'Courier New', Courier, monospace;
-    background-color: azure;
-
-
-
-
+    background-color: lightskyblue;
 
 
 
