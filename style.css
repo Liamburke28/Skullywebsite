@@ -9,9 +9,23 @@ h1 {
 
 }
 
-nav{
+#nav{
     font-size: 50px
-    text-align: center;
+    
+
+
+
+
+}
+
+#Skullyman{
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: azure;
+
+
+
+
 
 
 
