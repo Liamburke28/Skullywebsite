@@ -6,14 +6,12 @@ h1 {
     padding: 20px 20px 20px 20px;
     margin: 20px 20px 20px 20px;
     background-color: azure;
-
 }
 
 body{
     font-size: 17px;
     font-family: 'Courier New', Courier, monospace;
     background-color: lightskyblue;
-
 }
 
 nav{
@@ -26,7 +24,9 @@ nav{
 }
 
 h2{
-
-
-    
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    background-color: azure;
 }
